@@ -1,0 +1,9 @@
+{
+  "name": "happybirthday",
+  "version": "1.0.0",
+  "description": "Birthday landing page with warm words, photos and animations",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "private": true
+}
